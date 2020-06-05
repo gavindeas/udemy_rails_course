@@ -40,5 +40,5 @@
 yarn-debug.log*
 .yarn-integrity
 
-# Ignore MacOS Finder files
+# Ignore MacOS hidden attributes files
 .DS_Store
